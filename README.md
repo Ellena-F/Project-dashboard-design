@@ -7,7 +7,8 @@ This dashboard provides current projects summary, client satisfaction and human 
 
 
 ![screenshot](/project-management-dashoboard.png?raw=true "Optional Title")
-Current projects summary provides details on current IT projects, which include:
+## Current projects summary 
+It provides details on current IT projects, which include:
 - Project Name: unique identifier for each task/ project
 - Project status: different colour showing the status of project (green: on time, yellow: slightly behind schedule, red: behind schedule)
 - % Complete: project progress shown in percentage
@@ -22,12 +23,12 @@ Current projects summary provides details on current IT projects, which include:
 
 
 
-Client satisfaction:
+## Client satisfaction:
 -	Average satisfaction in half pie chart compare to KPI/ Target 90%
 -	Overall satisfaction level according to project/ date
 
 
-Human resource: 
+## Human resource: 
 -	Numbers of current employees
 -	Table showing employee capacity and demand for each project and skill (shortage of employee will be highlighted in red)
 -	Bar chart showing current employee capacity and demand for each skill
