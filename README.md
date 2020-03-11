@@ -6,7 +6,7 @@ This dashboard is designed to assist project manger to track the progress of cur
 This dashboard provides current projects summary, client satisfaction and human resource information.
 
 
-![screenshot](/IT-project-progress.png?raw=true "Optional Title")
+![screenshot](/project-management-dashoboard.png?raw=true "Optional Title")
 Current projects summary provides details on current IT projects, which include:
 - Project Name: unique identifier for each task/ project
 - Project status: different colour showing the status of project (green: on time, yellow: slightly behind schedule, red: behind schedule)
